@@ -1,0 +1,14 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RCommand",
+	"pools" : [
+		 ],
+	"super" : "RModel",
+	"type" : "normal" }

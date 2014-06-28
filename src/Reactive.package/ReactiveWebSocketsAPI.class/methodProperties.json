@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allBut:" : "sebastiansastre 10/20/2013 16:04",
+		"clients" : "sebastiansastre 10/20/2013 14:10",
+		"handlesWebSockets" : "sebastiansastre 10/20/2013 13:40",
+		"initializeClients" : "sebastiansastre 4/5/2014 19:17",
+		"initializeProtection" : "sebastiansastre 10/20/2013 14:07",
+		"onClient:" : "sebastiansastre 6/27/2014 21:07",
+		"onStop" : "sebastiansastre 10/22/2013 17:21",
+		"process:on:" : "sebastiansastre 6/27/2014 21:13",
+		"protection" : "sebastiansastre 10/20/2013 14:07",
+		"purgeClients" : "sebastiansastre 10/23/2013 13:30",
+		"register:" : "sebastiansastre 10/20/2013 13:58",
+		"sendToAll:" : "sebastiansastre 6/27/2014 21:57",
+		"sendToAll:but:" : "sebastiansastre 6/27/2014 21:49",
+		"unregister:" : "sebastiansastre 10/21/2013 06:06" } }

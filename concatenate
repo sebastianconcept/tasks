@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cat service/static/lib/amber/js/boot.js service/static/lib/amber/js/Kernel-Objects.deploy.js service/static/lib/amber/js/Kernel-Classes.deploy.js service/static/lib/amber/js/Kernel-Methods.deploy.js service/static/lib/amber/js/Kernel-Collections.deploy.js service/static/lib/amber/js/Kernel-Announcements.deploy.js service/static/lib/amber/js/Kernel-Exceptions.deploy.js service/static/lib/amber/js/Canvas.deploy.js service/static/lib/amber/js/Mapless.deploy.js service/static/lib/amber/js/SocialAPI.deploy.js service/static/lib/amber/js/Reactive.deploy.js service/static/app/init.js > service/static/app/source.js
+

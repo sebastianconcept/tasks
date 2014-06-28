@@ -1,0 +1,14 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RList",
+	"pools" : [
+		 ],
+	"super" : "RModel",
+	"type" : "normal" }

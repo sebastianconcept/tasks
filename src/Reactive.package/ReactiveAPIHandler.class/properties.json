@@ -1,0 +1,14 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ReactiveAPIHandler",
+	"pools" : [
+		 ],
+	"super" : "FlowAPIHandler",
+	"type" : "normal" }

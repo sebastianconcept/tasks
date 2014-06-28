@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./clear
+./concatenate
+uglifyjs -v -mt -o service/static/app/$1 service/static/app/source.js

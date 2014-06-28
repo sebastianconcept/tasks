@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm service/static/app/all*.js
+rm service/static/app/source.js
