@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chown prod:prod -R *

@@ -1,0 +1,14 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RRemoveTask",
+	"pools" : [
+		 ],
+	"super" : "RCommand",
+	"type" : "normal" }

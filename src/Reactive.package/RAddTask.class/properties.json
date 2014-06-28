@@ -1,0 +1,14 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RAddTask",
+	"pools" : [
+		 ],
+	"super" : "RCommand",
+	"type" : "normal" }

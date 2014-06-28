@@ -1,0 +1,15 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		"timer",
+		"mta" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Reactive",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

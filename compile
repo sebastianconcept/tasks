@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./clear
+./concatenate
+java -jar compiler.jar --js service/static/app/source.js --js_output_file service/static/app/$1

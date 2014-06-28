@@ -1,0 +1,15 @@
+{
+	"category" : "Reactive",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clients",
+		"protection" ],
+	"name" : "ReactiveWebSocketsAPI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

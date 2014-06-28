@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"validCommands" : "sebastiansastre 10/24/2013 11:31" },
+	"instance" : {
+		"addList:" : "sebastiansastre 6/27/2014 21:20",
+		"addTask:" : "sebastiansastre 6/27/2014 22:06",
+		"addUser:" : "sebastiansastre 6/27/2014 21:22",
+		"changeList:" : "sebastiansastre 6/27/2014 21:23",
+		"changeTask:" : "sebastiansastre 6/27/2014 21:23",
+		"databaseDo:" : "sebastiansastre 10/28/2013 13:36",
+		"getList:" : "sebastiansastre 6/27/2014 21:49",
+		"handle:with:" : "sebastiansastre 10/28/2013 13:37",
+		"isValid:" : "sebastiansastre 6/27/2014 21:24",
+		"notifyProspect:" : "sebastiansastre 10/27/2013 10:43",
+		"prospect:" : "sebastiansastre 6/27/2014 21:14",
+		"removeTask:" : "sebastiansastre 6/27/2014 22:07" } }
