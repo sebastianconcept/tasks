@@ -15,11 +15,20 @@ A real-time experiment with [Amber](http://amber-lang.net) frontend and [Pharo](
 
 *Only perception.*
 
-###Set up
+### Set up
+
+Done in three steps:
+
+1. build backend and start its service
+2. start mongod
+3. browse the app
+
+### 1. Build backend 
 
 1. clone this repo
 2. execute ./load
-3. wait :)
+3. wait. When done, open a workspace and do:  
+   Reactive start
 
 ### Handy code
 
@@ -45,6 +54,13 @@ A real-time experiment with [Amber](http://amber-lang.net) frontend and [Pharo](
     "Changing state..."
     odb do:[RTask findAll third beCompleted; save].
 
+### 2. Start MongoDB
+
+I'm assuming you already have [MongoDB](http://www.mongodb.org) installed:
+
+    $ mongod
+
+### 3. Browse the app
 
 In your browser hit:
 
