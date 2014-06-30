@@ -15,6 +15,12 @@ A real-time experiment with [Amber](http://amber-lang.net) frontend and [Pharo](
 
 *Only perception.*
 
+### Demo
+
+Visit the online app [here](http://tasks.flowingconcept.com)
+
+If you open two browsers pointing there you'll be able to interact in real-time between them.
+
 ### Set up
 
 Done in three steps:
