@@ -17,7 +17,6 @@ vm/
 *.sources
 *.dmp
 package-cache/
-Mapless*
 *~
 
 # Compiled source #
